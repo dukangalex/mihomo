@@ -9,7 +9,7 @@
 | 当前基线 | 官方 Alpha `f103639c808d93a2c34cae56757b458862871b22`（2026-09-25，已包含 tag `v1.19.31` 及其后的 Alpha 提交） |
 | 本分支型号 | `v1.19.31-chain.1` |
 | 跟踪上游 | [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) 分支 **`Alpha`** |
-| 客户端 | [dukangalex/ClashMetaForAndroid](https://github.com/dukangalex/ClashMetaForAndroid) 分支 `dev` |
+| 客户端 | [dukangalex/AngelaClash](https://github.com/dukangalex/AngelaClash) 分支 `dev` |
 | 姐妹产品 | [dukangalex/AngelaBox](https://github.com/dukangalex/AngelaBox)（sing-box，内核不等价） |
 
 对外产品名是 **Angela Clash**。下游产品名不得包含 `mihomo`。仓库名保留是因为这是上游仓库的 fork，便于对照，不作为产品名。
