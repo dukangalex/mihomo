@@ -5,6 +5,8 @@ ifeq ($(BRANCH),Alpha)
 VERSION=alpha-$(shell git rev-parse --short HEAD)
 else ifeq ($(BRANCH),Beta)
 VERSION=beta-$(shell git rev-parse --short HEAD)
+else ifeq ($(BRANCH),chain-dev)
+VERSION=$(shell git describe --tags --always)
 else ifeq ($(BRANCH),)
 VERSION=$(shell git describe --tags)
 else
