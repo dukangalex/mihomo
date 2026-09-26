@@ -1,10 +1,10 @@
-# AngelaBox Clash 内核
+# Angela Clash 内核
 
-本分支是 AngelaBox Clash 的内核跟踪分支，不是另一个协议栈。
+本分支是 Angela Clash 的内核跟踪分支，不是另一个协议栈。
 
 | 项 | 值 |
 |---|---|
-| 产品名 | AngelaBox Clash |
+| 产品名 | Angela Clash |
 | 分支 | `chain-dev` |
 | 当前基线 | 官方 Alpha `f103639c808d93a2c34cae56757b458862871b22`（2026-09-25，已包含 tag `v1.19.31` 及其后的 Alpha 提交） |
 | 本分支型号 | `v1.19.31-chain.1` |
@@ -12,7 +12,7 @@
 | 客户端 | [dukangalex/ClashMetaForAndroid](https://github.com/dukangalex/ClashMetaForAndroid) 分支 `dev` |
 | 姐妹产品 | [dukangalex/AngelaBox](https://github.com/dukangalex/AngelaBox)（sing-box，内核不等价） |
 
-对外产品名是 **AngelaBox Clash**。下游产品名不得包含 `mihomo`。仓库名保留是因为这是上游仓库的 fork，便于对照，不作为产品名。
+对外产品名是 **Angela Clash**。下游产品名不得包含 `mihomo`。仓库名保留是因为这是上游仓库的 fork，便于对照，不作为产品名。
 
 ## 不要合并 `main`
 
